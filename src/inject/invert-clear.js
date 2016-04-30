@@ -1,0 +1,1 @@
+$("html").css({"-webkit-filter":"none"});
